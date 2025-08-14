@@ -1,0 +1,743 @@
+date,away_team,Away_score,home_team,home_score,innings
+3/7/2025,"Fullerton
+",9,"Cal Poly
+",10,10
+3/7/2025,"LBSU
+",10,"UCI
+",8,9
+3/7/2025,"Bakersfield
+",1,"UCSD
+",9,9
+3/7/2025,"CSUN
+",3,"UCSB
+",4,13
+3/8/2025,"Fullerton
+",8,"Cal Poly
+",11,9
+3/8/2025,"LBSU
+",6,"UCI
+",8,9
+3/8/2025,"Bakersfield
+",10,"UCSD
+",3,9
+3/8/2025,"CSUN
+",9,"UCSB
+",11,9
+3/9/2025,"Fullerton
+",4,"Cal Poly
+",10,9
+3/9/2025,"LBSU
+",1,"UCI
+",10,9
+3/9/2025,"Bakersfield
+",11,"UCSD
+",7,9
+3/9/2025,"CSUN
+",9,"UCSB
+",10,9
+3/14/2025,"UCSD
+",9,"Fullerton
+",7,11
+3/14/2025,"Cal Poly
+",3,"LBSU
+",1,9
+3/15/2025,"UCSD
+",9,"Fullerton
+",5,9
+3/15/2025,"UCI
+",11,"CSUN
+",3,9
+3/15/2025,"Cal Poly
+",9,"LBSU
+",1,9
+3/15/2025,"UCI
+",15,"CSUN
+",2,9
+3/16/2025,"UCSD
+",5,"Fullerton
+",12,9
+3/16/2025,"UCI
+",6,"CSUN
+",2,7
+3/16/2025,"Cal Poly
+",9,"LBSU
+",0,8
+3/21/2025,"Fullerton
+",12,"UCR
+ ",1,9
+3/21/2025,"UCI
+",10,"UCSB
+",0,9
+3/21/2025,"CSUN
+",7,"Bakersfield
+",11,9
+3/21/2025,"LBSU
+",4,"UCSD
+",7,9
+3/22/2025,"Fullerton
+",18,"UCR
+ ",3,9
+3/22/2025,"UCI
+",9,"UCSB
+",3,9
+3/22/2025,"CSUN
+",7,"Bakersfield
+",4,9
+3/22/2025,"LBSU
+",10,"UCSD
+",13,9
+3/23/2025,"Fullerton
+",10,"UCR
+ ",5,9
+3/23/2025,"UCI
+",9,"UCSB
+",4,9
+3/23/2025,"CSUN
+",10,"Bakersfield
+",9,9
+3/23/2025,"LBSU
+",10,"UCSD
+",0,9
+3/28/2025,"Bakersfield
+",1,"Fullerton
+",8,9
+3/28/2025,"UCR
+ ",1,"UCI
+",20,9
+3/28/2025,"UCSB
+",6,"LBSU
+",9,9
+3/29/2025,"Bakersfield
+",1,"Fullerton
+",6,9
+3/29/2025,"UCR
+ ",8,"UCI
+",14,9
+3/29/2025,"UCSB
+",9,"LBSU
+",0,9
+3/30/2025,"Bakersfield
+",6,"Fullerton
+",5,9
+3/30/2025,"UCR
+ ",4,"UCI
+",7,9
+3/30/2025,"UCSB
+",4,"LBSU
+",5,9
+4/4/2025,"Fullerton
+",16,"CSUN
+",5,9
+4/4/2025,"UCR
+ ",2,"Bakersfield
+",7,9
+4/4/2025,"UCSD
+",6,"Cal Poly
+",9,9
+4/5/2025,"Fullerton
+",9,"CSUN
+",3,9
+4/5/2025,"UCR
+ ",2,"Bakersfield
+",0,9
+4/5/2025,"UCSD
+",3,"Cal Poly
+",8,9
+4/6/2025,"Fullerton
+",10,"CSUN
+",8,9
+4/6/2025,"UCR
+ ",1,"Bakersfield
+",3,9
+4/6/2025,"UCSD
+",11,"Cal Poly
+",12,9
+4/11/2025,"Bakersfield
+",2,"LBSU
+",3,9
+4/11/2025,"UCSB
+",13,"UCR
+ ",4,9
+4/11/2025,"CSUN
+",7,"UCSD
+",3,9
+4/12/2025,"Bakersfield
+",5,"LBSU
+",7,9
+4/12/2025,"UCSB
+",18,"UCR
+ ",8,9
+4/12/2025,"CSUN
+",5,"UCSD
+",9,9
+4/13/2025,"Bakersfield
+",12,"LBSU
+",6,9
+4/13/2025,"UCSB
+",5,"UCR
+ ",3,9
+4/13/2025,"CSUN
+",6,"UCSD
+",23,9
+4/17/2025,"LBSU
+",4,"Fullerton
+",5,9
+4/17/2025,"Cal Poly
+",4,"UCSB
+",3,11
+4/17/2025,"UCSD
+",7,"UCR
+ ",3,9
+4/18/2025,"LBSU
+",8,"Fullerton
+",5,9
+4/18/2025,"Cal Poly
+",4,"UCSB
+",5,9
+4/18/2025,"UCSD
+",11,"UCR
+ ",0,9
+4/19/2025,"LBSU
+",4,"Fullerton
+",6,9
+4/19/2025,"Cal Poly
+",0,"UCSB
+",4,9
+4/19/2025,"UCSD
+",6,"UCR
+ ",7,9
+4/25/2025,"UCI
+",6,"Cal Poly
+",4,9
+4/25/2025,"UCSB
+",4,"UCSD
+",6,9
+4/25/2025,"CSUN
+",7,"LBSU
+",13,9
+4/26/2025,"UCI
+",4,"Cal Poly
+",0,9
+4/26/2025,"UCSB
+",7,"UCSD
+",6,9
+4/26/2025,"CSUN
+",6,"LBSU
+",0,9
+4/27/2025,"UCI
+",10,"Cal Poly
+",8,9
+4/27/2025,"UCSB
+",8,"UCSD
+",10,9
+4/27/2025,"CSUN
+",13,"LBSU
+",12,11
+4/29/2025,"Fullerton
+",1,"UCI
+",5,9
+5/2/2025,"UCSB
+",2,"Fullerton
+",3,9
+5/2/2025,"UCSD
+",19,"UCI
+",4,9
+5/2/2025,"Cal Poly
+",4,"Bakersfield
+",1,9
+5/2/2025,"UCR
+ ",0,"CSUN
+",11,9
+5/3/2025,"UCSB
+",4,"Fullerton
+",10,9
+5/3/2025,"UCSD
+",4,"UCI
+",0,9
+5/3/2025,"Cal Poly
+",9,"Bakersfield
+",5,9
+5/3/2025,"UCR
+ ",3,"CSUN
+",1,9
+5/4/2025,"UCSB
+",4,"Fullerton
+",3,9
+5/4/2025,"UCSD
+",4,"UCI
+",8,9
+5/4/2025,"Cal Poly
+",12,"Bakersfield
+",6,9
+5/4/2025,"UCR
+ ",4,"CSUN
+",7,9
+5/9/2025,"UCI
+",14,"Bakersfield
+",11,9
+5/9/2025,"Cal Poly
+",17,"CSUN
+",1,9
+5/9/2025,"LBSU
+",12,"UCR
+ ",4,9
+5/10/2025,"UCI
+",7,"Bakersfield
+",3,9
+5/10/2025,"Cal Poly
+",6,"CSUN
+",11,9
+5/10/2025,"LBSU
+",6,"UCR
+ ",3,9
+5/11/2025,"UCI
+",5,"Bakersfield
+",3,9
+5/11/2025,"Cal Poly
+",10,"CSUN
+",9,9
+5/11/2025,"LBSU
+",2,"UCR
+ ",0,9
+5/15/2025,"Fullerton
+",9,"UCI
+",7,9
+5/15/2025,"UCR
+ ",9,"Cal Poly
+",14,9
+5/15/2025,"Bakersfield
+",4,"UCSB
+",5,9
+5/16/2025,"Fullerton
+",4,"UCI
+",2,9
+5/16/2025,UCR,5,"Cal Poly
+",6,9
+5/16/2025,"Bakersfield
+",1,"UCSB
+",10,9
+5/17/2025,"Fullerton
+",10,"UCI
+",12,9
+5/17/2025,"UCR
+",7,"Cal Poly
+",16,9
+5/17/2025,"Bakersfield
+",13,"UCSB
+",12,9
+5/22/2025,"Cal Poly
+",7,"Fullerton
+",2,9
+5/23/2025,"Cal Poly
+",3,"UCI
+",15,9
+5/24/2025,"Cal Poly
+",15,"UCI
+",5,9
+5/25/2025,"Cal Poly
+",6,"UCI
+",4,9
+6/1/2025,Utah Valley,6,Cal Poly,7,11
+5/23/2025,Sacramento State,1,Utah Valley,9,9
+5/11/2025,Sacramento State,9,Utah Valley,2,9
+5/10/2025,Sacramento State,12,Utah Valley,2,9
+5/9/2025,Sacramento State,2,Utah Valley,14,9
+4/27/2025,Cal Baptist,9,Utah Valley,7,9
+4/26/2025,Cal Baptist,2,Utah Valley,10,9
+4/25/2025,Cal Baptist,14,Utah Valley,18,9
+2/17/2025,Utah Valley,10,UCR,7,11
+2/16/2025,Utah Valley,6,UCR,7,9
+2/15/2025,Utah Valley,11,UCR,6,9
+2/14/2025,Utah Valley,2,UCR,3,9
+5/23/2024,Cal Baptist,9,Utah Valley,3,9
+4/28/2024,Utah Valley,8,Cal Baptist,7,12
+4/27/2024,Utah Valley,15,Cal Baptist,9,9
+4/26/2024,Utah Valley,7,Cal Baptist,12,9
+3/10/2024,Utah Valley,3,Sacramento State,10,9
+3/9/2024,Utah Valley,5,Sacramento State,2,9
+3/8/2024,Utah Valley,3,Sacramento State,4,9
+2/18/2024,Utah Valley,4,UCR,8,9
+2/18/2024,Utah Valley,10,"CSUN
+",6,9
+2/17/2024,Utah Valley,6,"CSUN
+",5,9
+2/16/2024,Utah Valley,6,"CSUN
+",10,9
+4/8/2023,Utah Valley,3,Sacramento State,1,9
+4/7/2023,Utah Valley,5,Sacramento State,7,9
+4/6/2023,Utah Valley,5,Sacramento State,7,9
+2/26/2023,Utah Valley,5,UCR,0,9
+2/26/2023,Utah Valley,6,UCR,2,9
+2/24/2023,UCR,4,Utah Valley,5,9
+2/24/2023,UCR,8,Utah Valley,1,9
+5/13/2025,LBSU,7,Cal Bap,9,9
+5/6/2025,Cal Bap,8,UCI,9,9
+4/28/2025,Cal Bap,4,UCR,6,9
+4/21/2025,Cal Bap,6,UCSB,7,9
+4/19/2025,Cal Bap,2,Sacramento State,6,9
+4/18/2025,Cal Bap,8,Sacramento State,4,9
+4/17/2025,Cal Bap,0,Sacramento State,3,9
+4/14/2025,UCSB,6,Cal Bap,7,9
+3/25/2025,UCSD,6,Cal Bap,10,9
+3/2/2025,Cal Bap,4,UCR,7,9
+2/28/2025,Cal Bap,0,UCR,3,9
+2/23/2025,UCSB,6,Cal Bap,3,9
+2/22/2025,Cal Bap,8,UCSD,9,9
+2/21/2025,LBSU,10,Cal Bap,3,9
+5/13/2024,Cal Bap,7,LBSU,9,9
+5/6/2024,Bakersfield,1,Cal Bap,7,9
+4/30/2024,UCSB,6,Cal Bap,9,9
+4/23/2024,LBSU,8,Cal Bap,12,9
+4/9/2024,Cal Bap,12,CSUN,4,9
+4/7/2024,Cal Bap,1,Sacramento State,11,9
+4/6/2024,Cal Bap,5,Sacramento State,3,9
+4/5/2024,Cal Bap,1,Sacramento State,0,9
+4/2/2024,Cal Bap,7,UCSB,8,9
+3/25/2024,CSUN,2,Cal Bap,3,9
+3/5/2024,Cal Bap,4,UCI,5,9
+2/25/2024,Cal Bap,10,UCR,8,9
+2/24/2024,Cal Bap,6,UCR,2,9
+2/23/2024,Cal Bap,12,UCR,3,9
+2/22/2024,Cal Bap,0,UCR,3,9
+5/15/2023,Cal Bap,6,UCSB,7,10
+5/14/2023,Sacramento State,8,Cal Bap,3,9
+5/13/2023,Sacramento State,7,Cal Bap,12,9
+5/12/2023,Sacramento State,7,Cal Bap,9,9
+5/9/2023,Cal Bap,11,UCR,2,9
+5/2/2023,UCSB,4,Cal Bap,6,9
+4/18/2023,UCR,1,Cal Bap,5,9
+4/11/2023,Cal Bap,5,UCR,1,9
+4/3/2023,Cal Bap,3,CSUN,12,9
+3/28/2023,Cal Bap,2,LBSU,3,9
+3/27/2023,Cal Bap,2,UCR,8,9
+3/15/2023,LBSU,8,Cal Bap,6,10
+4/27/2025,UCR,6,Sacramento State,9,9
+4/26/2025,UCR,1,Sacramento State,2,9
+4/25/2025,UCR,4,Sacramento State,8,9
+2/25/2024,UCSB,12,Sacramento State,0,9
+2/24/2024,UCSB,9,Sacramento State,1,9
+2/23/2024,UCSB,2,Sacramento State,6,9
+3/15/2024,"CSUN
+",4,"Cal Poly
+",5,10
+3/15/2024,"Fullerton
+",2,"UCSD
+",1,9
+3/15/2024,"LBSU
+",5,"UCSB
+",10,9
+3/16/2024,"CSUN
+",5,"Cal Poly
+",17,9
+3/16/2024,"Fullerton
+",9,"UCSD
+",10,9
+3/16/2024,"LBSU
+",2,"UCSB
+",6,9
+3/17/2024,"CSUN
+",10,"Cal Poly
+",8,9
+3/17/2024,"Fullerton
+",2,"UCSD
+",4,9
+3/17/2024,"LBSU
+",4,"UCSB
+",7,9
+3/22/2024,"UCSB
+",3,"Cal Poly
+",8,9
+3/22/2024,"Bakersfield
+",3,"UCI
+",10,9
+3/22/2024,"Fullerton
+",2,"LBSU
+",5,9
+3/22/2024,"CSUN
+",8,"UC Riverside
+",4,9
+3/23/2024,"UCSB
+",11,"Cal Poly
+",10,9
+3/23/2024,"Bakersfield
+",4,"UCI
+",12,9
+3/23/2024,"Fullerton
+",3,"LBSU
+",4,9
+3/23/2024,"CSUN
+",15,"UC Riverside
+",13,9
+3/24/2024,"UCSB
+",3,"Cal Poly
+",6,12
+3/24/2024,"Bakersfield
+",2,"UCI
+",3,12
+3/24/2024,"Fullerton
+",6,"LBSU
+",9,9
+3/24/2024,"CSUN
+",4,"UC Riverside
+",1,9
+3/28/2024,"Cal Poly
+",2,"Fullerton
+",8,9
+3/28/2024,"LBSU
+",4,"Bakersfield
+",1,9
+3/28/2024,"UC Riverside
+",3,"UCSD
+",7,9
+3/29/2024,"Cal Poly
+",5,"Fullerton
+",2,9
+3/29/2024,"LBSU
+",1,"Bakersfield
+",2,10
+3/29/2024,"UC Riverside
+",4,"UCSD
+",8,9
+3/29/2024,"Cal Poly
+",6,"Fullerton
+",0,9
+3/30/2024,"LBSU
+",7,"Bakersfield
+",9,9
+4/1/2024,"UC Riverside
+",2,"UCSD
+",20,9
+4/5/2024,"Cal Poly
+",9,"UC Riverside
+",3,9
+4/5/2024,"UCSB
+",3,"UCI
+",9,9
+4/5/2024,"UCSD
+",5,"LBSU
+",1,9
+4/6/2024,"Cal Poly
+",6,"UC Riverside
+",2,9
+4/6/2024,"Fullerton
+",0,"Bakersfield
+",1,9
+4/6/2024,"UCSB
+",5,"UCI
+",4,9
+4/6/2024,"UCSD
+",1,"LBSU
+",10,9
+4/6/2024,"Fullerton
+",13,"Bakersfield
+",5,9
+4/7/2024,"Cal Poly
+",8,"UC Riverside
+",3,10
+4/7/2024,"Fullerton
+",4,"Bakersfield
+",5,9
+4/7/2024,"UCSB
+",4,"UCI
+",11,9
+4/7/2024,"UCSD
+",6,"LBSU
+",3,9
+4/7/2024,"Bakersfield
+",2,"Cal Poly
+",7,9
+4/12/2024,"UC Riverside
+",8,"Fullerton
+",11,9
+4/12/2024,"LBSU
+",7,"CSUN
+",8,9
+4/12/2024,"UCI
+",4,"UCSD
+",15,9
+4/12/2024,"LBSU
+",4,"CSUN
+",10,9
+4/12/2024,"Bakersfield
+",5,"Cal Poly
+",0,9
+4/13/2024,"UCI
+",16,"UCSD
+",3,9
+4/14/2024,"UC Riverside
+",3,"Fullerton
+",4,9
+4/14/2024,"UCI
+",9,"UCSD
+",10,9
+4/14/2024,"UC Riverside
+",9,"Fullerton
+",6,9
+4/15/2024,"LBSU
+",10,"CSUN
+",7,9
+4/15/2024,"Bakersfield
+",4,"Cal Poly
+",5,11
+4/19/2024,"UCSD
+",2,"Bakersfield
+",1,12
+4/19/2024,"CSUN
+",9,"Fullerton
+",6,9
+4/19/2024,"UC Riverside
+",1,"LBSU
+",13,9
+4/20/2024,"UCSD
+",6,"Bakersfield
+",5,9
+4/20/2024,"CSUN
+",6,"Fullerton
+",4,9
+4/20/2024,"UC Riverside
+",10,"LBSU
+",6,9
+4/21/2024,"UCSD
+",11,"Bakersfield
+",6,9
+4/21/2024,"CSUN
+",7,"Fullerton
+",5,12
+4/21/2024,"UC Riverside
+",11,"LBSU
+",4,9
+4/26/2024,"Bakersfield
+",3,"CSUN
+",5,9
+4/26/2024,"Fullerton
+",2,"UCSB
+",13,9
+4/26/2024,"UCI
+",15,"UC Riverside
+",1,9
+4/27/2024,"Bakersfield
+",4,"CSUN
+",5,9
+4/27/2024,"Fullerton
+",1,"UCSB
+",5,9
+4/27/2024,"UCI
+",15,"UC Riverside
+",7,9
+4/28/2024,"Bakersfield
+",0,"CSUN
+",3,9
+4/28/2024,"Fullerton
+",0,"UCSB
+",4,9
+4/28/2024,"UCI
+",12,"UC Riverside
+",3,9
+5/3/2024,"Cal Poly
+",10,"UCI
+",5,9
+5/3/2024,"Bakersfield
+",6,"UC Riverside
+",1,9
+5/3/2024,"UCSD
+",5,"UCSB
+",7,9
+5/4/2024,"Cal Poly
+",3,"UCI
+",4,10
+5/4/2024,"Bakersfield
+",4,"UC Riverside
+",5,10
+5/4/2024,"UCSD
+",3,"UCSB
+",6,9
+5/5/2024,"Cal Poly
+",11,"UCI
+",2,9
+5/5/2024,"Bakersfield
+",0,"UC Riverside
+",3,9
+5/5/2024,"UCSD
+",3,"UCSB
+",12,9
+5/10/2024,"UCSB
+",8,"Bakersfield
+",3,9
+5/10/2024,"UCSD
+",11,"CSUN
+",5,10
+5/10/2024,"UCI
+",18,"LBSU
+",3,9
+5/11/2024,"UCSB
+",15,"Bakersfield
+",7,9
+5/11/2024,"UCSD
+",4,"CSUN
+",6,9
+5/11/2024,"UCI
+",11,"LBSU
+",2,9
+5/12/2024,"UCSB
+",7,"Bakersfield
+",1,9
+5/12/2024,"UCSD
+",9,"CSUN
+",2,9
+5/12/2024,"UCI
+",7,"LBSU
+",1,9
+5/17/2024,"Cal Poly
+",1,"UCSD
+",4,9
+5/17/2024,"UCI
+",10,"Fullerton
+",6,12
+5/17/2024,"UCSB
+",14,"CSUN
+",2,9
+5/18/2024,"Cal Poly
+",7,"UCSD
+",12,9
+5/18/2024,"UCI
+",2,"Fullerton
+",9,9
+5/18/2024,"UCSB
+",4,"CSUN
+",2,9
+5/19/2024,"Cal Poly
+",7,"UCSD
+",5,9
+5/19/2024,"UCI
+",18,"Fullerton
+",4,9
+5/19/2024,"UCSB
+",6,"CSUN
+",4,9
+5/23/2024,"LBSU
+",5,"Cal Poly
+",8,9
+5/23/2024,"CSUN
+",2,"UCI
+",5,9
+5/23/2024,"UC Riverside
+",3,"UCSB
+",12,9
+5/24/2024,"LBSU
+",5,"Cal Poly
+",3,9
+5/24/2024,"CSUN
+",14,"UCI
+",9,9
+5/24/2024,"UC Riverside
+",4,"UCSB
+",20,9
+5/25/2024,"LBSU
+",6,"Cal Poly
+",7,9
+5/25/2024,"CSUN
+",9,"UCI
+",14,9
+5/25/2024,"UC Riverside
+",3,"UCSB
+",6,9

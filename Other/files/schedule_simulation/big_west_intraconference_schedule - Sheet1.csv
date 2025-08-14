@@ -1,0 +1,523 @@
+date,away_team,Away_score,home_team,home_score
+3/7/2025,"CS Fullerton
+Titans",9,"Cal Poly
+Mustangs",10
+3/7/2025,"Long Beach St
+49ers",10,"UC Irvine
+Anteaters",8
+3/7/2025,"CS Bakersfield
+Roadrunners",1,"UC San Diego
+Tritons",9
+3/7/2025,"Hawaii
+Rainbow Warriors",17,"UC Riverside
+Highlanders",5
+3/7/2025,"CS Northridge
+Matadors",3,"UC Santa Barbara
+Gauchos",4
+3/8/2025,"CS Fullerton
+Titans",8,"Cal Poly
+Mustangs",11
+3/8/2025,"Long Beach St
+49ers",6,"UC Irvine
+Anteaters",8
+3/8/2025,"CS Bakersfield
+Roadrunners",10,"UC San Diego
+Tritons",3
+3/8/2025,"Hawaii
+Rainbow Warriors",3,"UC Riverside
+Highlanders",4
+3/8/2025,"CS Northridge
+Matadors",9,"UC Santa Barbara
+Gauchos",11
+3/9/2025,"CS Fullerton
+Titans",4,"Cal Poly
+Mustangs",10
+3/9/2025,"Long Beach St
+49ers",1,"UC Irvine
+Anteaters",10
+3/9/2025,"CS Bakersfield
+Roadrunners",11,"UC San Diego
+Tritons",7
+3/9/2025,"Hawaii
+Rainbow Warriors",4,"UC Riverside
+Highlanders",7
+3/9/2025,"CS Northridge
+Matadors",9,"UC Santa Barbara
+Gauchos",10
+3/14/2025,"UC San Diego
+Tritons",9,"CS Fullerton
+Titans",7
+3/14/2025,"Cal Poly
+Mustangs",3,"Long Beach St
+49ers",1
+3/14/2025,"UC Santa Barbara
+Gauchos",2,"Hawaii
+Rainbow Warriors",1
+3/14/2025,"UC Riverside
+Highlanders",3,"UC Davis
+Aggies",9
+3/15/2025,"UC San Diego
+Tritons",9,"CS Fullerton
+Titans",5
+3/15/2025,"UC Irvine
+Anteaters",11,"CS Northridge
+Matadors",3
+3/15/2025,"Cal Poly
+Mustangs",9,"Long Beach St
+49ers",1
+3/15/2025,"UC Santa Barbara
+Gauchos",7,"Hawaii
+Rainbow Warriors",15
+3/15/2025,"UC Riverside
+Highlanders",2,"UC Davis
+Aggies",10
+3/15/2025,"UC Irvine
+Anteaters",15,"CS Northridge
+Matadors",2
+3/16/2025,"UC San Diego
+Tritons",5,"CS Fullerton
+Titans",12
+3/16/2025,"UC Irvine
+Anteaters",6,"CS Northridge
+Matadors",2
+3/16/2025,"Cal Poly
+Mustangs",9,"Long Beach St
+49ers",0
+3/16/2025,"UC Santa Barbara
+Gauchos",0,"Hawaii
+Rainbow Warriors",1
+3/16/2025,"UC Riverside
+Highlanders",1,"UC Davis
+Aggies",7
+3/21/2025,"CS Fullerton
+Titans",12,"UC Riverside
+Highlanders",1
+3/21/2025,"UC Irvine
+Anteaters",10,"UC Santa Barbara
+Gauchos",0
+3/21/2025,"CS Northridge
+Matadors",7,"CS Bakersfield
+Roadrunners",11
+3/21/2025,"Long Beach St
+49ers",4,"UC San Diego
+Tritons",7
+3/22/2025,"CS Fullerton
+Titans",18,"UC Riverside
+Highlanders",3
+3/22/2025,"UC Irvine
+Anteaters",9,"UC Santa Barbara
+Gauchos",3
+3/22/2025,"CS Northridge
+Matadors",7,"CS Bakersfield
+Roadrunners",4
+3/22/2025,"UC Davis
+Aggies",2,"Hawaii
+Rainbow Warriors",7
+3/22/2025,"Long Beach St
+49ers",10,"UC San Diego
+Tritons",13
+3/23/2025,"CS Fullerton
+Titans",10,"UC Riverside
+Highlanders",5
+3/23/2025,"UC Irvine
+Anteaters",9,"UC Santa Barbara
+Gauchos",4
+3/23/2025,"CS Northridge
+Matadors",10,"CS Bakersfield
+Roadrunners",9
+3/23/2025,"UC Davis
+Aggies",0,"Hawaii
+Rainbow Warriors",16
+3/23/2025,"Long Beach St
+49ers",10,"UC San Diego
+Tritons",0
+3/24/2025,"UC Davis
+Aggies",1,"Hawaii
+Rainbow Warriors",2
+3/28/2025,"CS Bakersfield
+Roadrunners",1,"CS Fullerton
+Titans",8
+3/28/2025,"UC Riverside
+Highlanders",1,"UC Irvine
+Anteaters",20
+3/28/2025,"Cal Poly
+Mustangs",4,"UC Davis
+Aggies",2
+3/28/2025,"Hawaii
+Rainbow Warriors",10,"CS Northridge
+Matadors",15
+3/28/2025,"UC Santa Barbara
+Gauchos",6,"Long Beach St
+49ers",9
+3/29/2025,"CS Bakersfield
+Roadrunners",1,"CS Fullerton
+Titans",6
+3/29/2025,"UC Riverside
+Highlanders",8,"UC Irvine
+Anteaters",14
+3/29/2025,"Cal Poly
+Mustangs",11,"UC Davis
+Aggies",0
+3/29/2025,"Hawaii
+Rainbow Warriors",9,"CS Northridge
+Matadors",3
+3/29/2025,"UC Santa Barbara
+Gauchos",9,"Long Beach St
+49ers",0
+3/29/2025,"Cal Poly
+Mustangs",5,"UC Davis
+Aggies",1
+3/30/2025,"CS Bakersfield
+Roadrunners",6,"CS Fullerton
+Titans",5
+3/30/2025,"UC Riverside
+Highlanders",4,"UC Irvine
+Anteaters",7
+3/30/2025,"Hawaii
+Rainbow Warriors",14,"CS Northridge
+Matadors",10
+3/30/2025,"UC Santa Barbara
+Gauchos",4,"Long Beach St
+49ers",5
+4/4/2025,"CS Fullerton
+Titans",16,"CS Northridge
+Matadors",5
+4/4/2025,"UC Riverside
+Highlanders",2,"CS Bakersfield
+Roadrunners",7
+4/4/2025,"Long Beach St
+49ers",5,"Hawaii
+Rainbow Warriors",10
+4/4/2025,"UC Davis
+Aggies",1,"UC Santa Barbara
+Gauchos",0
+4/4/2025,"UC San Diego
+Tritons",6,"Cal Poly
+Mustangs",9
+4/5/2025,"CS Fullerton
+Titans",9,"CS Northridge
+Matadors",3
+4/5/2025,"UC Riverside
+Highlanders",2,"CS Bakersfield
+Roadrunners",0
+4/5/2025,"Long Beach St
+49ers",3,"Hawaii
+Rainbow Warriors",2
+4/5/2025,"UC Davis
+Aggies",0,"UC Santa Barbara
+Gauchos",5
+4/5/2025,"UC San Diego
+Tritons",3,"Cal Poly
+Mustangs",8
+4/6/2025,"CS Fullerton
+Titans",10,"CS Northridge
+Matadors",8
+4/6/2025,"UC Riverside
+Highlanders",1,"CS Bakersfield
+Roadrunners",3
+4/6/2025,"Long Beach St
+49ers",5,"Hawaii
+Rainbow Warriors",4
+4/6/2025,"UC Davis
+Aggies",2,"UC Santa Barbara
+Gauchos",8
+4/6/2025,"UC San Diego
+Tritons",11,"Cal Poly
+Mustangs",12
+4/11/2025,"UC Irvine
+Anteaters",4,"UC Davis
+Aggies",1
+4/11/2025,"Hawaii
+Rainbow Warriors",4,"Cal Poly
+Mustangs",2
+4/11/2025,"CS Bakersfield
+Roadrunners",2,"Long Beach St
+49ers",3
+4/11/2025,"UC Santa Barbara
+Gauchos",13,"UC Riverside
+Highlanders",4
+4/11/2025,"CS Northridge
+Matadors",7,"UC San Diego
+Tritons",3
+4/12/2025,"UC Irvine
+Anteaters",3,"UC Davis
+Aggies",7
+4/12/2025,"Hawaii
+Rainbow Warriors",5,"Cal Poly
+Mustangs",12
+4/12/2025,"CS Bakersfield
+Roadrunners",5,"Long Beach St
+49ers",7
+4/12/2025,"UC Santa Barbara
+Gauchos",18,"UC Riverside
+Highlanders",8
+4/12/2025,"CS Northridge
+Matadors",5,"UC San Diego
+Tritons",9
+4/13/2025,"UC Irvine
+Anteaters",13,"UC Davis
+Aggies",2
+4/13/2025,"Hawaii
+Rainbow Warriors",2,"Cal Poly
+Mustangs",5
+4/13/2025,"CS Bakersfield
+Roadrunners",12,"Long Beach St
+49ers",6
+4/13/2025,"UC Santa Barbara
+Gauchos",5,"UC Riverside
+Highlanders",3
+4/13/2025,"CS Northridge
+Matadors",6,"UC San Diego
+Tritons",23
+4/17/2025,"Long Beach St
+49ers",4,"CS Fullerton
+Titans",5
+4/17/2025,"Hawaii
+Rainbow Warriors",1,"UC Irvine
+Anteaters",3
+4/17/2025,"Cal Poly
+Mustangs",4,"UC Santa Barbara
+Gauchos",3
+4/17/2025,"UC Davis
+Aggies",3,"CS Bakersfield
+Roadrunners",1
+4/17/2025,"UC San Diego
+Tritons",7,"UC Riverside
+Highlanders",3
+4/18/2025,"Long Beach St
+49ers",8,"CS Fullerton
+Titans",5
+4/18/2025,"Hawaii
+Rainbow Warriors",0,"UC Irvine
+Anteaters",4
+4/18/2025,"Cal Poly
+Mustangs",4,"UC Santa Barbara
+Gauchos",5
+4/18/2025,"UC Davis
+Aggies",5,"CS Bakersfield
+Roadrunners",2
+4/18/2025,"UC San Diego
+Tritons",11,"UC Riverside
+Highlanders",0
+4/19/2025,"Long Beach St
+49ers",4,"CS Fullerton
+Titans",6
+4/19/2025,"Hawaii
+Rainbow Warriors",0,"UC Irvine
+Anteaters",5
+4/19/2025,"Cal Poly
+Mustangs",0,"UC Santa Barbara
+Gauchos",4
+4/19/2025,"UC Davis
+Aggies",8,"CS Bakersfield
+Roadrunners",2
+4/19/2025,"UC San Diego
+Tritons",6,"UC Riverside
+Highlanders",7
+4/25/2025,"CS Fullerton
+Titans",2,"UC Davis
+Aggies",1
+4/25/2025,"UC Irvine
+Anteaters",6,"Cal Poly
+Mustangs",4
+4/25/2025,"UC Santa Barbara
+Gauchos",4,"UC San Diego
+Tritons",6
+4/25/2025,"CS Northridge
+Matadors",7,"Long Beach St
+49ers",13
+4/25/2025,"CS Bakersfield
+Roadrunners",7,"Hawaii
+Rainbow Warriors",6
+4/26/2025,"CS Fullerton
+Titans",2,"UC Davis
+Aggies",0
+4/26/2025,"UC Irvine
+Anteaters",4,"Cal Poly
+Mustangs",0
+4/26/2025,"CS Bakersfield
+Roadrunners",4,"Hawaii
+Rainbow Warriors",5
+4/26/2025,"UC Santa Barbara
+Gauchos",7,"UC San Diego
+Tritons",6
+4/26/2025,"CS Northridge
+Matadors",6,"Long Beach St
+49ers",0
+4/27/2025,"CS Fullerton
+Titans",8,"UC Davis
+Aggies",5
+4/27/2025,"UC Irvine
+Anteaters",10,"Cal Poly
+Mustangs",8
+4/27/2025,"CS Bakersfield
+Roadrunners",4,"Hawaii
+Rainbow Warriors",11
+4/27/2025,"UC Santa Barbara
+Gauchos",8,"UC San Diego
+Tritons",10
+4/27/2025,"CS Northridge
+Matadors",13,"Long Beach St
+49ers",12
+4/29/2025,"CS Fullerton
+Titans",1,"UC Irvine
+Anteaters",5
+5/2/2025,"UC Santa Barbara
+Gauchos",2,"CS Fullerton
+Titans",3
+5/2/2025,"UC San Diego
+Tritons",19,"UC Irvine
+Anteaters",4
+5/2/2025,"Cal Poly
+Mustangs",4,"CS Bakersfield
+Roadrunners",1
+5/2/2025,"UC Davis
+Aggies",1,"Long Beach St
+49ers",0
+5/2/2025,"UC Riverside
+Highlanders",0,"CS Northridge
+Matadors",11
+5/3/2025,"UC Santa Barbara
+Gauchos",4,"CS Fullerton
+Titans",10
+5/3/2025,"UC San Diego
+Tritons",4,"UC Irvine
+Anteaters",0
+5/3/2025,"Cal Poly
+Mustangs",9,"CS Bakersfield
+Roadrunners",5
+5/3/2025,"UC Davis
+Aggies",1,"Long Beach St
+49ers",4
+5/3/2025,"UC Riverside
+Highlanders",3,"CS Northridge
+Matadors",1
+5/4/2025,"UC Santa Barbara
+Gauchos",4,"CS Fullerton
+Titans",3
+5/4/2025,"UC San Diego
+Tritons",4,"UC Irvine
+Anteaters",8
+5/4/2025,"Cal Poly
+Mustangs",12,"CS Bakersfield
+Roadrunners",6
+5/4/2025,"UC Davis
+Aggies",4,"Long Beach St
+49ers",5
+5/4/2025,"UC Riverside
+Highlanders",4,"CS Northridge
+Matadors",7
+5/9/2025,"Hawaii
+Rainbow Warriors",8,"CS Fullerton
+Titans",7
+5/9/2025,"UC Irvine
+Anteaters",14,"CS Bakersfield
+Roadrunners",11
+5/9/2025,"Cal Poly
+Mustangs",17,"CS Northridge
+Matadors",1
+5/9/2025,"Long Beach St
+49ers",12,"UC Riverside
+Highlanders",4
+5/9/2025,"UC Davis
+Aggies",9,"UC San Diego
+Tritons",8
+5/10/2025,"Hawaii
+Rainbow Warriors",1,"CS Fullerton
+Titans",9
+5/10/2025,"UC Irvine
+Anteaters",7,"CS Bakersfield
+Roadrunners",3
+5/10/2025,"Cal Poly
+Mustangs",6,"CS Northridge
+Matadors",11
+5/10/2025,"Long Beach St
+49ers",6,"UC Riverside
+Highlanders",3
+5/10/2025,"UC Davis
+Aggies",10,"UC San Diego
+Tritons",9
+5/11/2025,"Hawaii
+Rainbow Warriors",10,"CS Fullerton
+Titans",2
+5/11/2025,"UC Irvine
+Anteaters",5,"CS Bakersfield
+Roadrunners",3
+5/11/2025,"Cal Poly
+Mustangs",10,"CS Northridge
+Matadors",9
+5/11/2025,"Long Beach St
+49ers",2,"UC Riverside
+Highlanders",0
+5/11/2025,"UC Davis
+Aggies",0,"UC San Diego
+Tritons",23
+5/15/2025,"CS Fullerton
+Titans",9,"UC Irvine
+Anteaters",7
+5/15/2025,"UC Riverside
+Highlanders",9,"Cal Poly
+Mustangs",14
+5/15/2025,"CS Bakersfield
+Roadrunners",4,"UC Santa Barbara
+Gauchos",5
+5/15/2025,"UC San Diego
+Tritons",3,"Hawaii
+Rainbow Warriors",6
+5/15/2025,"CS Northridge
+Matadors",3,"UC Davis
+Aggies",2
+5/16/2025,"CS Fullerton
+Titans",4,"UC Irvine
+Anteaters",2
+5/16/2025,"UC Riverside
+Highlanders",5,"Cal Poly
+Mustangs",6
+5/16/2025,"CS Bakersfield
+Roadrunners",1,"UC Santa Barbara
+Gauchos",10
+5/16/2025,"UC San Diego
+Tritons",12,"Hawaii
+Rainbow Warriors",6
+5/16/2025,"CS Northridge
+Matadors",3,"UC Davis
+Aggies",5
+5/17/2025,"CS Fullerton
+Titans",10,"UC Irvine
+Anteaters",12
+5/17/2025,"UC Riverside
+Highlanders",7,"Cal Poly
+Mustangs",16
+5/17/2025,"CS Bakersfield
+Roadrunners",13,"UC Santa Barbara
+Gauchos",12
+5/17/2025,"CS Northridge
+Matadors",6,"UC Davis
+Aggies",10
+5/18/2025,"UC San Diego
+Tritons",2,"Hawaii
+Rainbow Warriors",13
+5/21/2025,"Hawaii
+Rainbow Warriors",6,"UC Santa Barbara
+Gauchos",2
+5/22/2025,"Cal Poly
+Mustangs",7,"CS Fullerton
+Titans",2
+5/22/2025,"Hawaii
+Rainbow Warriors",5,"UC Irvine
+Anteaters",7
+5/23/2025,"Cal Poly
+Mustangs",3,"UC Irvine
+Anteaters",15
+5/23/2025,"CS Fullerton
+Titans",4,"Hawaii
+Rainbow Warriors",16
+5/24/2025,"Cal Poly
+Mustangs",2,"Hawaii
+Rainbow Warriors",1
+5/24/2025,"Cal Poly
+Mustangs",15,"UC Irvine
+Anteaters",5
+5/25/2025,"Cal Poly
+Mustangs",6,"UC Irvine
+Anteaters",4
