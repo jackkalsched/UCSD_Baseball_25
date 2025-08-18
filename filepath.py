@@ -18,7 +18,5 @@ trackman_games = trackman_games.drop(columns=['Notes', 'Runner1st', 'Runner2nd',
 if "OutsOnPlay" in trackman_games.columns and "KorBB" in trackman_games.columns:
     trackman_games["OutsOnPlay"] = (trackman_games["OutsOnPlay"] + (trackman_games["KorBB"] == "Strikeout").astype(int))
 
-
-
 output_path = troot_folder / "merged_trackman_games.csv"
 trackman_games.to_csv(output_path, index=False)
