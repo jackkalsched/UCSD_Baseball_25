@@ -208,11 +208,7 @@ __marimo__/
 
 # DS stores
 .DS_Store
-.DS_Store
-.DS_Store
-.DS_Store
-.DS_Store
-.DS_Store
-.DS_Store
+
 .vscode/settings.json
-.DS_Store
+Files/*.csv
+!Files/merged_trackman_games.csv
