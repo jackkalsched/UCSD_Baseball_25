@@ -212,3 +212,4 @@ __marimo__/
 .vscode/settings.json
 Files/*.csv
 !Files/merged_trackman_games.csv
+!Files/pitch_class_trackman_games.csv
