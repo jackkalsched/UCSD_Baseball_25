@@ -210,6 +210,6 @@ __marimo__/
 .DS_Store
 
 .vscode/settings.json
-# Files/*.csv
-# !Files/merged_trackman_games.csv
-# !Files/pitch_class_trackman_games.csv
+Files/*.csv
+!Files/merged_trackman_games.csv
+!Files/pitch_class_trackman_games.csv
