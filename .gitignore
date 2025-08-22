@@ -213,3 +213,6 @@ __marimo__/
 Files/*.csv
 !Files/merged_trackman_games.csv
 !Files/pitch_class_trackman_games.csv
+Trackman CSV Files/*.csv
+!Trackman CSV Files/merged_trackman_games.csv
+!Trackman CSV Files/pitch_class_trackman_games.csv
