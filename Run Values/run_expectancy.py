@@ -182,7 +182,11 @@ def generate_base_out_state(df):
     # concatenate baseout state
     result['base_count_state'] = (
         result[['first_base', 'second_base', 'third_base', 'Balls', 'Strikes']].astype(str).agg("_".join, axis = 1)
-    )   
+    )
+    
+    re288 = pd.read_csv('Run Values/re288.csv')
+    with_re288 = result.merge(re288, on = ['base_count_state', 'Outs'], how = 'left')
+    with_re288['delta_run_exp'] = with_re288['runs_remaining'] - (with_re288['runs_remaining'].shift(1))
     
     return result
     
