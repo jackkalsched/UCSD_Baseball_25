@@ -215,4 +215,4 @@ Files/*.csv
 # !Files/pitch_class_trackman_games.csv
 Trackman CSV Files/*.csv
 # !Trackman CSV Files/merged_trackman_games.csv
-# !Trackman CSV Files/pitch_class_trackman_games.csv
+# !Trackman CSV Files/pitch_class_trackman_games.csvPitching/pitch classification/games_w_probs.csv
